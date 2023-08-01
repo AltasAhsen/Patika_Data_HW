@@ -4,14 +4,23 @@ Steps:
 
 27 -> [22, 27, 16, 2, 18, 6]
 
+---
+
 16 -> [16, 22, 27, 2, 18, 6]
+
+---
 
 2  -> [2, 16, 22, 27, 18, 6] 
 
+---
+
 18 -> [2, 16, 18, 22, 27, 6] 
+
+---
 
 6  -> [2, 6, 16, 18, 22, 27] 
 
+---
 Big-O Notation
 for loop 1 -> Surfing the numbers in the array 
 for loop 2 -> Comparing the numbers with the number holding by loop 1
