@@ -31,16 +31,35 @@ After sorting the array, number 18 is in center of the array. => Average Case
 
 [7, 3, 5, 8, 2, 9, 4, 15, 6] -> Selection Sort
 
+---
+
 smallest num = 2 => [2, 7, 3, 5, 8, 9, 4, 15, 6]
 
+---
+
 [7, 3, 5, 8, 9, 4, 15, 6] 
+
+---
 smallest num = 3 => [3, 7, 5, 8, 9, 4, 15, 6] 
 
+---
+
 [7, 5, 8, 9, 4, 15, 6] 
+
+---
 smallest num = 4 => [4, 7, 5, 8, 9, 15, 6]
 
+---
+
 [7, 5, 8, 9, 15, 6]
+
+---
+
 smallest num = 5 => [5, 7, 8, 9, 15, 6]
 
+---
+
 [7, 8, 9, 15, 6]
+
+---
 smallest num = 6 => [6, 7, 8, 9, 15]
